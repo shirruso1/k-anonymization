@@ -1,0 +1,19 @@
+"id","gender","age","hypertension","heart disease","ever married","work type","residence type","avg glucose level","bmi","smoking status","stroke"
+"*","A","B","C","0","E","F","G","H","[10 , 39]","J","1"
+"10434","Female","69.0","0","0","0","Private","Urban","94.39","22.8","never smoked","1"
+"60491","Female","78.0","0","0","1","Private","Urban","58.57","24.2","Unknown","1"
+"12109","Female","81.0","1","0","1","Private","Rural","80.43","29.7","never smoked","1"
+
+"id","gender","age","hypertension","heart disease","ever married","work type","residence type","avg glucose level","bmi","smoking status","stroke"
+"*","A","B","C","0","E","F","G","[128 , 200]","[10 , 39]","J","1"
+"60182","Female","49.0","0","0","1","Private","Urban","171.23","34.4","smokes","1"
+"1665","Female","79.0","1","0","1","Self-employed","Rural","174.12","24.0","never smoked","1"
+"56669","Male","81.0","0","0","1","Private","Urban","186.21","29.0","formerly smoked","1"
+
+"id","gender","age","hypertension","heart disease","ever married","work type","residence type","avg glucose level","bmi","smoking status","stroke"
+"*","A","B","C","1","E","F","G","H","[10 , 39]","J","1"
+"9046","Male","67.0","0","1","1","Private","Urban","228.69","36.6","formerly smoked","1"
+"31112","Male","80.0","0","1","1","Private","Rural","105.92","32.5","never smoked","1"
+"53882","Male","74.0","1","1","1","Private","Rural","70.09","27.4","never smoked","1"
+"12095","Female","61.0","0","1","1","Govt_job","Rural","120.46","36.8","smokes","1"
+
